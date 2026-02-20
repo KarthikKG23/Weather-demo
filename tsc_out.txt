@@ -1,0 +1,7 @@
+﻿src/api/weatherstack.ts(4,30): error TS2339: Property 'env' does not exist on type 'ImportMeta'.
+src/api/weatherstack.ts(5,29): error TS2339: Property 'env' does not exist on type 'ImportMeta'.
+src/App.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/pages/CurrentWeather.tsx(7,16): error TS2724: '"lucide-react"' has no exported member named 'ThemeIcon'. Did you mean 'HomeIcon'?
+src/pages/CurrentWeather.tsx(7,16): error TS6133: 'ThemeIcon' is declared but its value is never read.
+src/pages/CurrentWeather.tsx(7,44): error TS6133: 'ArrowDownLeft' is declared but its value is never read.
+src/pages/CurrentWeather.tsx(7,59): error TS6133: 'ArrowUpRight' is declared but its value is never read.
